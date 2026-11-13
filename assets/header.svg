@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-labelledby="title description">
+  <title id="title">Alexander Yakovenko — PHP and Laravel backend developer</title>
+  <desc id="description">Backend development, APIs, integrations and asynchronous processing.</desc>
+  <rect width="1280" height="280" rx="16" fill="#0d1724"/>
+  <rect x="1" y="1" width="1278" height="278" rx="15" fill="none" stroke="#25384a"/>
+  <path d="M16 0H24V280H16A16 16 0 0 1 0 264V16A16 16 0 0 1 16 0Z" fill="#5cdbc4"/>
+  <g font-family="DejaVu Sans, Arial, sans-serif">
+    <text x="68" y="55" fill="#73dcca" font-size="14" font-weight="600" letter-spacing="2.4">SUNNBROI / BACKEND DEVELOPMENT</text>
+    <text x="64" y="126" fill="#f1f6fb" font-size="53" font-weight="700" letter-spacing="-1.3">Alexander Yakovenko</text>
+    <text x="68" y="173" fill="#b7c9d9" font-size="21">PHP · Laravel · APIs · SQL · asynchronous processing</text>
+    <path d="M68 211H114" stroke="#5cdbc4" stroke-width="3"/>
+    <text x="130" y="217" fill="#8ca5bb" font-size="15">Architecture / Integrations / Reliability</text>
+  </g>
+  <path d="M956 48V232" stroke="#2b4052"/>
+  <g font-family="DejaVu Sans Mono, monospace" font-size="16" font-weight="600">
+    <rect x="1002" y="49" width="214" height="46" rx="8" fill="#152435" stroke="#2d4458"/>
+    <circle cx="1027" cy="72" r="4" fill="#5cdbc4"/>
+    <text x="1045" y="78" fill="#d9e9f6">PHP</text>
+    <rect x="1002" y="117" width="214" height="46" rx="8" fill="#152435" stroke="#2d4458"/>
+    <circle cx="1027" cy="140" r="4" fill="#f0ad77"/>
+    <text x="1045" y="146" fill="#d9e9f6">LARAVEL</text>
+    <rect x="1002" y="185" width="214" height="46" rx="8" fill="#152435" stroke="#2d4458"/>
+    <circle cx="1027" cy="208" r="4" fill="#88bdf5"/>
+    <text x="1045" y="214" fill="#d9e9f6">POSTGRESQL</text>
+  </g>
+</svg>
